@@ -1,8 +1,3 @@
-<style>
-  h3{
-      font-family:Times New Romans;
-  }
-  </style>
 <h1 align="center">Hi 👋, I'm Ashish Pandey</h1>
 <h3 align="left">I'm a results-driven software engineer with a strong background in full-stack Java development. My journey in the world of technology has been marked by a commitment to innovation, problem-solving, and a passion for creating software that makes a difference.</h3>
 
