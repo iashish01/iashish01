@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashish Pandey</h1>
-<h3 align="center color="black">Result-driven and motivated Software Engineer with a demonstrated experience in Spring Boot & Angular. Equipped with a diverse and promising skill-set. Able to effectively self-manage during independent projects, as well as collaborate as part of a productive team.</h3>
+<h3 align="center">Result-driven and motivated Software Engineer with a demonstrated experience in Spring Boot & Angular. Equipped with a diverse and promising skill-set. Able to effectively self-manage during independent projects, as well as collaborate as part of a productive team.</h3>
 
 <img src="https://camo.githubusercontent.com/2b526261e88935a5671e4a20a23e230c06dc6e9192706fa9d40190bf0f58a050/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f66612f37622f34622f66613762346264633362326637336537343965356332633634366434616531332e676966"/>
 
